@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\bin\Debug\quanhau2.exe.config
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\bin\Debug\quanhau2.exe
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\bin\Debug\quanhau2.pdb
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.Form1.resources
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.Properties.Resources.resources
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.exe
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.pdb
+C:\Users\asus\Desktop\do an ktll\quanhau2\quanhau2\obj\Debug\quanhau2.DatQuanHau.resources
